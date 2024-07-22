@@ -6,6 +6,4 @@ public class Student extends Coustmer {
  public Student() {
 	super();
 }
-
-
 }
